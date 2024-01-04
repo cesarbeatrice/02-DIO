@@ -1,2 +1,2 @@
 # 02-DIO
-Lógica de Programação - Desafio 01
+Lógica de Programação - Desafios 01, 02 e 03.
